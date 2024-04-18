@@ -86,9 +86,7 @@ main{
     border-bottom: solid 1px grey;
     border-right: solid 1px grey;
     gap: 20px;
-    padding-left: 30px;
-    padding-top: 14px;
-    padding-bottom: 14px;
+    padding: 14px 0 14px 30px;
 }
 
 .chats-img{
