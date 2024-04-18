@@ -28,8 +28,8 @@ main{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: solid 1px grey;
-    border-right: solid 1px grey;
+    border-bottom: solid 1px #c3c3c3;
+    border-right: solid 1px #c3c3c3;
     padding: 10px 20px 10px 30px;
 }
 
@@ -67,8 +67,8 @@ main{
     justify-content: center;
     align-items: center;
     height: 10em;
-    border-bottom: solid 1px grey;
-    border-right: solid 1px grey;
+    border-bottom: solid 1px #c3c3c3;
+    border-right: solid 1px #c3c3c3;
 }
 
 .btn{
@@ -83,8 +83,8 @@ main{
 .chats{
     display: flex;
     align-items: center;
-    border-bottom: solid 1px grey;
-    border-right: solid 1px grey;
+    border-bottom: solid 1px #c3c3c3;
+    border-right: solid 1px #c3c3c3;
     gap: 20px;
     padding: 14px 0 14px 30px;
 }
